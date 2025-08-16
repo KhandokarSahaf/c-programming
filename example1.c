@@ -7,7 +7,7 @@ int salary =  0;
 int x (){
     printf("%s\n", name);
     printf("%s\n", addr);
-    printf("%d", salary);
+    printf("%d\n", salary);
 
 }
 
